@@ -14,4 +14,3 @@ node {
 		echo 'Deploying....'
 	}
 }
-© 2020 GitHub, Inc.
